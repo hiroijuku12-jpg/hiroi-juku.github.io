@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# 公開後、sitemap.xml内のURLを実際のGitHub Pages URLに合わせてください。
